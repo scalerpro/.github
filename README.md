@@ -7,7 +7,7 @@
 
 <h2 >WELCOME</h2>
 
-Scaler Pro is an open community for builder to automate, collaborate and Scale.
+Scaler Pro is an open community for builders to automate, collaborate and Scale.
 
 <h2>I. MISSION</h2>
 
